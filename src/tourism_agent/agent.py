@@ -4,7 +4,7 @@ from langchain.prompts import (
     ChatPromptTemplate,
     SystemMessagePromptTemplate,
     HumanMessagePromptTemplate
-
+)
 
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import LLMChain, SequentialChain
